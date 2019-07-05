@@ -1,5 +1,5 @@
 {
-  "name": "cezerin-client",
+  "name": "@soft-bind/cezerin-client",
   "version": "0.34.0",
   "description": "Cezerin API client library. Work on browser and server.",
   "keywords": [
@@ -25,12 +25,16 @@
     {
       "name": "Sergey Onufrienko <sergey@onufrienko.com>",
       "url": "https://github.com/sonufrienko"
+    },
+    {
+      "name": "Sebastian Sobociński <sebastian@soft-bind.com>",
+      "url": "https://github.com/hiddenboox"
     }
   ],
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cezerin/client"
+    "url": "https://github.com/hiddenboox/client"
   },
   "scripts": {
     "build": "babel src -d lib",

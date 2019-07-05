@@ -1,5 +1,5 @@
 {
-  "name": "@soft-bind/cezerin-client",
+  "name": "hiddenboox-cezerin-client",
   "version": "0.34.0",
   "description": "Cezerin API client library. Work on browser and server.",
   "keywords": [
